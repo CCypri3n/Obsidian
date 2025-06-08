@@ -29,3 +29,7 @@ perl -MFile::Spec -MCwd -E '
 mv "$TMP_FILE" "$HTML_FILE"
 
 echo "URLs in $HTML_FILE have been updated."
+
+sed -i '' 's|<span class="tree-item-title nav-file-title-content tree-item-inner">index</span>|<span class="tree-item-title nav-file-title-content tree-item-inner">Homepage</span>|g' lib/html/file-tree.html
+
+echo "Index title has been changed to 'Homepage'."
