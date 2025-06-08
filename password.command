@@ -1,9 +1,7 @@
 #!/bin/bash
 
-# Change working directory to the folder containing this script
 cd "$(dirname "$0")"
 
-# The password protection code to prepend
 PASSWORD_CODE='// --- PASSWORD PROTECTION (HASHED) ---
 (function() {
     const PASSWORD_HASH = "a686b1bef08ea17f5fed46c5aa49d1d9e958620a1dd2ae7df06ac615b1b13a79";
@@ -62,10 +60,28 @@ PASSWORD_CODE='// --- PASSWORD PROTECTION (HASHED) ---
 })();
 // --- END PASSWORD PROTECTION (HASHED) ---'
 
-# Backup the original file (optional, but recommended)
+# Backup
 cp lib/scripts/webpage.js lib/scripts/webpage.js.bak
 
-# Prepend the code to lib/scripts/webpage.js
-echo "$PASSWORD_CODE" | cat - lib/scripts/webpage.js > lib/scripts/temp.js && mv lib/scripts/temp.js lib/scripts/webpage.js
+# Save the password code to a temporary file
+TMPFILE=$(mktemp)
+echo "$PASSWORD_CODE" > "$TMPFILE"
 
-echo "Password protection code prepended to lib/scripts/webpage.js! A backup was created as lib/scripts/webpage.js.bak."
+# Use awk to replace or prepend the block
+awk -v codefile="$TMPFILE" '
+BEGIN {
+    while ((getline line < codefile) > 0) {
+        code = (code == "" ? line : code "\n" line)
+    }
+    close(codefile)
+    in_block=0
+}
+/\/\/ --- PASSWORD PROTECTION \(HASHED\) ---/ { in_block=1; print code; next }
+/\/\/ --- END PASSWORD PROTECTION \(HASHED\) ---/ { in_block=0; next }
+in_block { next }
+1
+' lib/scripts/webpage.js.bak > lib/scripts/webpage.js
+
+rm "$TMPFILE"
+
+echo "Password protection code was updated in lib/scripts/webpage.js! A backup was created as lib/scripts/webpage.js.bak."
