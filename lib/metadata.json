@@ -1,8 +1,8 @@
 {
   "vaultName": "Curiosity killed the cat",
-  "lastExport": 1749334551758,
+  "lastExport": 1749401874854,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-ribbon minimal-default-light minimal-default-dark minimal-readable colorful-headings colorful-frame colorful-active links-int-on links-ext-on trim-cols metadata-heading-off window-title-off styled-scrollbars",
+  "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-ribbon minimal-default-light minimal-default-dark minimal-readable colorful-headings colorful-frame colorful-active links-int-on links-ext-on trim-cols metadata-heading-off window-title-off styled-scrollbars is-fullscreen",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
@@ -10,6 +10,7 @@
     "000 Zettelkasten/Amplitude Envelope.md",
     "000 Zettelkasten/Bystander-Effekt.md",
     "000 Zettelkasten/Callout Manager.md",
+    "000 Zettelkasten/Cascara.md",
     "000 Zettelkasten/Chernobyl.md",
     "000 Zettelkasten/Coagulation du lait.md",
     "000 Zettelkasten/Coffea.md",
@@ -37,6 +38,8 @@
     "000 Zettelkasten/High Fantasy.md",
     "000 Zettelkasten/How to use Git.md",
     "000 Zettelkasten/John Ronald Reuel Tolkien.md",
+    "000 Zettelkasten/Kaffee.md",
+    "000 Zettelkasten/Kaffeekirsche.md",
     "000 Zettelkasten/L'histoire du Reblochon.md",
     "000 Zettelkasten/La Féta.md",
     "000 Zettelkasten/Learning Obsidian.md",
@@ -60,6 +63,7 @@
     "000 Zettelkasten/Sauce Moutarde pimentée.md",
     "000 Zettelkasten/Series.md",
     "000 Zettelkasten/Sound.md",
+    "000 Zettelkasten/Sufismus.md",
     "000 Zettelkasten/Unterentwicklung.md",
     "000 Zettelkasten/Versuche von Hallwachs.md",
     "000 Zettelkasten/Vezo people.md",
@@ -67,8 +71,8 @@
     "100 Half-Baked Notes/Die Anfänge modernen Denkens im antiquen Griechenland (800 bis 200 v. Chr.).md",
     "100 Half-Baked Notes/Quotes.md",
     "100 Half-Baked Notes/Rationalität im antiquen Griechenland.md",
-    "100 Half-Baked Notes/Sufismus.md",
     "100 Half-Baked Notes/To be created.md",
+    "100 Half-Baked Notes/Vortrag zu Stammtischparolen.md",
     "100 Half-Baked Notes/Vortrag zu Stammtischparolen | Correctiv e. V..md",
     "200 Reference Notes/3 minutes pour comprendre l'univers de Tolkien.md",
     "200 Reference Notes/13 Reasons Why.md",
@@ -102,6 +106,7 @@
     "300 Tag Notes/Essay.md",
     "300 Tag Notes/Gastronomy.md",
     "300 Tag Notes/Geography.md",
+    "300 Tag Notes/Getränke Kunde.md",
     "300 Tag Notes/History.md",
     "300 Tag Notes/IT.md",
     "300 Tag Notes/Literature.md",
@@ -110,11 +115,14 @@
     "300 Tag Notes/Sociology.md",
     "Files/DKV_Kaffeeanbau_und_Kaffeekonsum.png",
     "Files/Home in the night.jpg",
+    "Files/Informationen zu Kaffee - Kaffeeverband.pdf",
+    "Files/Kaffeekirsche - Querschnitt.png",
     "Files/Library.png",
     "Files/Pourquoi le ciel est bleu.png",
     "Files/Stammtischparolen sind.png",
     "Files/The different sounds of Instruments.gif",
     "index.md",
+    "lib/media/kaffeekirsche-querschnitt.png",
     "lib/media/pourquoi-le-ciel-est-bleu.png",
     "lib/media/stammtischparolen-sind.png",
     "lib/scripts/graph-wasm.wasm",
@@ -228,241 +236,241 @@
   ],
   "fileInfo": {
     "000 Zettelkasten/Alpage.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 429,
       "exportedPath": "000-zettelkasten/alpage.html",
       "dependencies": []
     },
     "000 Zettelkasten/Amplitude Envelope.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 313,
       "exportedPath": "000-zettelkasten/amplitude-envelope.html",
       "dependencies": []
     },
     "000 Zettelkasten/Bystander-Effekt.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 656,
       "exportedPath": "000-zettelkasten/bystander-effekt.html",
       "dependencies": []
     },
     "000 Zettelkasten/Callout Manager.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 511,
       "exportedPath": "000-zettelkasten/callout-manager.html",
       "dependencies": []
     },
     "000 Zettelkasten/Chernobyl.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 589,
       "exportedPath": "000-zettelkasten/chernobyl.html",
       "dependencies": []
     },
     "000 Zettelkasten/Coagulation du lait.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 647,
       "exportedPath": "000-zettelkasten/coagulation-du-lait.html",
       "dependencies": []
     },
     "000 Zettelkasten/Cooking.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 174,
       "exportedPath": "000-zettelkasten/cooking.html",
       "dependencies": []
     },
     "000 Zettelkasten/Das Ende der DDR.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1080,
       "exportedPath": "000-zettelkasten/das-ende-der-ddr.html",
       "dependencies": []
     },
     "000 Zettelkasten/Dataview.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 3335,
       "exportedPath": "000-zettelkasten/dataview.html",
       "dependencies": []
     },
     "000 Zettelkasten/Der Herr der Ringe.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1015,
       "exportedPath": "000-zettelkasten/der-herr-der-ringe.html",
       "dependencies": []
     },
     "000 Zettelkasten/Die Gegenfeldmethode.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 330,
       "exportedPath": "000-zettelkasten/die-gegenfeldmethode.html",
       "dependencies": []
     },
     "000 Zettelkasten/Electrolysis of water.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 359,
       "exportedPath": "000-zettelkasten/electrolysis-of-water.html",
       "dependencies": []
     },
     "000 Zettelkasten/Élevage bovin.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 296,
       "exportedPath": "000-zettelkasten/élevage-bovin.html",
       "dependencies": []
     },
     "000 Zettelkasten/Élevage caprin.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 261,
       "exportedPath": "000-zettelkasten/élevage-caprin.html",
       "dependencies": []
     },
     "000 Zettelkasten/Élevage ovin.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 232,
       "exportedPath": "000-zettelkasten/élevage-ovin.html",
       "dependencies": []
     },
     "000 Zettelkasten/Empirie im antiquen Griechenland.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 315,
       "exportedPath": "000-zettelkasten/empirie-im-antiquen-griechenland.html",
       "dependencies": []
     },
     "000 Zettelkasten/Entwicklungstheorien.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 915,
       "exportedPath": "000-zettelkasten/entwicklungstheorien.html",
       "dependencies": []
     },
     "000 Zettelkasten/Ethik.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 386,
       "exportedPath": "000-zettelkasten/ethik.html",
       "dependencies": []
     },
     "000 Zettelkasten/Fotoeffekt.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1016,
       "exportedPath": "000-zettelkasten/fotoeffekt.html",
       "dependencies": []
     },
     "000 Zettelkasten/Fromage.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 324,
       "exportedPath": "000-zettelkasten/fromage.html",
       "dependencies": []
     },
     "000 Zettelkasten/GDScript.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1242,
       "exportedPath": "000-zettelkasten/gdscript.html",
       "dependencies": []
     },
     "000 Zettelkasten/GIT.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 548,
       "exportedPath": "000-zettelkasten/git.html",
       "dependencies": []
     },
     "000 Zettelkasten/Godot.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 543,
       "exportedPath": "000-zettelkasten/godot.html",
       "dependencies": []
     },
     "000 Zettelkasten/Green Hydrogen.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 256,
       "exportedPath": "000-zettelkasten/green-hydrogen.html",
       "dependencies": []
     },
     "000 Zettelkasten/High Fantasy.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 659,
       "exportedPath": "000-zettelkasten/high-fantasy.html",
       "dependencies": []
     },
     "000 Zettelkasten/How to use Git.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 11561,
       "exportedPath": "000-zettelkasten/how-to-use-git.html",
       "dependencies": []
     },
     "000 Zettelkasten/John Ronald Reuel Tolkien.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 396,
       "exportedPath": "000-zettelkasten/john-ronald-reuel-tolkien.html",
       "dependencies": []
     },
     "000 Zettelkasten/L'histoire du Reblochon.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1120,
       "exportedPath": "000-zettelkasten/l'histoire-du-reblochon.html",
       "dependencies": []
     },
     "000 Zettelkasten/La Féta.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 603,
       "exportedPath": "000-zettelkasten/la-féta.html",
       "dependencies": []
     },
     "000 Zettelkasten/Learning Obsidian.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1106,
       "exportedPath": "000-zettelkasten/learning-obsidian.html",
       "dependencies": []
     },
     "000 Zettelkasten/Map of Content.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 322,
       "exportedPath": "000-zettelkasten/map-of-content.html",
       "dependencies": []
     },
     "000 Zettelkasten/Merkmale für Unterentwicklung.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1315,
       "exportedPath": "000-zettelkasten/merkmale-für-unterentwicklung.html",
       "dependencies": []
     },
     "000 Zettelkasten/Movie.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 251,
       "exportedPath": "000-zettelkasten/movie.html",
       "dependencies": []
     },
     "000 Zettelkasten/Nebel.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1005,
       "exportedPath": "000-zettelkasten/nebel.html",
       "dependencies": []
     },
     "000 Zettelkasten/Nuklearkatastrophe von Tschornobyl.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 2048,
       "exportedPath": "000-zettelkasten/nuklearkatastrophe-von-tschornobyl.html",
       "dependencies": []
     },
     "000 Zettelkasten/Obsidian.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 223,
       "exportedPath": "000-zettelkasten/obsidian.html",
       "dependencies": []
     },
     "000 Zettelkasten/Oscillators.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 336,
       "exportedPath": "000-zettelkasten/oscillators.html",
       "dependencies": []
     },
     "000 Zettelkasten/Pâturage.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 465,
       "exportedPath": "000-zettelkasten/pâturage.html",
       "dependencies": []
     },
     "000 Zettelkasten/Plugin.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 201,
       "exportedPath": "000-zettelkasten/plugin.html",
       "dependencies": []
     },
     "000 Zettelkasten/Pourquoi le ciel est bleu?.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 863,
       "exportedPath": "000-zettelkasten/pourquoi-le-ciel-est-bleu/pourquoi-le-ciel-est-bleu.html",
       "dependencies": [
@@ -470,121 +478,115 @@
       ]
     },
     "000 Zettelkasten/Recette de Gâteau au Spéculoos.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1209,
       "exportedPath": "000-zettelkasten/recette-de-gâteau-au-spéculoos.html",
       "dependencies": []
     },
     "000 Zettelkasten/Recette de gratin de pâtes au chou-fleur.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 721,
       "exportedPath": "000-zettelkasten/recette-de-gratin-de-pâtes-au-chou-fleur.html",
       "dependencies": []
     },
     "000 Zettelkasten/Recette de Légumes farcis.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 730,
       "exportedPath": "000-zettelkasten/recette-de-légumes-farcis.html",
       "dependencies": []
     },
     "000 Zettelkasten/Recette de sauce béchamel.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 504,
       "exportedPath": "000-zettelkasten/recette-de-sauce-béchamel.html",
       "dependencies": []
     },
     "000 Zettelkasten/Recipes.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 416,
       "exportedPath": "000-zettelkasten/recipes.html",
       "dependencies": []
     },
     "000 Zettelkasten/Richtlinien für den Schriftsatz.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1447,
       "exportedPath": "000-zettelkasten/richtlinien-für-den-schriftsatz.html",
       "dependencies": []
     },
     "000 Zettelkasten/Sauce moutarde.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 367,
       "exportedPath": "000-zettelkasten/sauce-moutarde.html",
       "dependencies": []
     },
     "000 Zettelkasten/Sauce Moutarde pimentée.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 487,
       "exportedPath": "000-zettelkasten/sauce-moutarde-pimentée.html",
       "dependencies": []
     },
     "000 Zettelkasten/Series.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 274,
       "exportedPath": "000-zettelkasten/series.html",
       "dependencies": []
     },
     "000 Zettelkasten/Sound.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 972,
       "exportedPath": "000-zettelkasten/sound.html",
       "dependencies": []
     },
     "000 Zettelkasten/Unterentwicklung.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 639,
       "exportedPath": "000-zettelkasten/unterentwicklung.html",
       "dependencies": []
     },
     "000 Zettelkasten/Versuche von Hallwachs.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 863,
       "exportedPath": "000-zettelkasten/versuche-von-hallwachs.html",
       "dependencies": []
     },
     "000 Zettelkasten/Vezo people.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 602,
       "exportedPath": "000-zettelkasten/vezo-people.html",
       "dependencies": []
     },
     "000 Zettelkasten/What gives Instruments their particular sound?.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 2223,
       "exportedPath": "000-zettelkasten/what-gives-instruments-their-particular-sound/what-gives-instruments-their-particular-sound.html",
       "dependencies": []
     },
     "100 Half-Baked Notes/Die Anfänge modernen Denkens im antiquen Griechenland (800 bis 200 v. Chr.).md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 909,
       "exportedPath": "100-half-baked-notes/die-anfänge-modernen-denkens-im-antiquen-griechenland-(800-bis-200-v.-chr.).html",
       "dependencies": []
     },
     "100 Half-Baked Notes/Quotes.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 784,
       "exportedPath": "100-half-baked-notes/quotes.html",
       "dependencies": []
     },
     "100 Half-Baked Notes/Rationalität im antiquen Griechenland.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 374,
       "exportedPath": "100-half-baked-notes/rationalität-im-antiquen-griechenland.html",
       "dependencies": []
     },
-    "100 Half-Baked Notes/Sufismus.md": {
-      "modifiedTime": 1749334551758,
-      "sourceSize": 456,
-      "exportedPath": "100-half-baked-notes/sufismus.html",
-      "dependencies": []
-    },
     "100 Half-Baked Notes/To be created.md": {
-      "modifiedTime": 1749334551758,
-      "sourceSize": 377,
+      "modifiedTime": 1749401874854,
+      "sourceSize": 653,
       "exportedPath": "100-half-baked-notes/to-be-created.html",
       "dependencies": []
     },
     "100 Half-Baked Notes/Vortrag zu Stammtischparolen | Correctiv e. V..md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1421,
       "exportedPath": "100-half-baked-notes/vortrag-zu-stammtischparolen-|-correctiv-e.-v..html",
       "dependencies": [
@@ -592,627 +594,683 @@
       ]
     },
     "200 Reference Notes/3 minutes pour comprendre l'univers de Tolkien.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 970,
       "exportedPath": "200-reference-notes/3-minutes-pour-comprendre-l'univers-de-tolkien.html",
       "dependencies": []
     },
     "200 Reference Notes/13 Reasons Why.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1426,
       "exportedPath": "200-reference-notes/13-reasons-why.html",
       "dependencies": []
     },
     "200 Reference Notes/Breaking Bad.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1565,
       "exportedPath": "200-reference-notes/breaking-bad.html",
       "dependencies": []
     },
     "200 Reference Notes/Der Fürst.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 718,
       "exportedPath": "200-reference-notes/der-fürst.html",
       "dependencies": []
     },
     "200 Reference Notes/Der Herr der Ringe Bd 1 - Die Gefährten.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 745,
       "exportedPath": "200-reference-notes/der-herr-der-ringe-bd-1-die-gefährten.html",
       "dependencies": []
     },
     "200 Reference Notes/Der Herr der Ringe Bd 2 - Die zwei Türme.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 745,
       "exportedPath": "200-reference-notes/der-herr-der-ringe-bd-2-die-zwei-türme.html",
       "dependencies": []
     },
     "200 Reference Notes/Der Herr der Ringe Bd 3 - Die Rückkehr des Königs.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 775,
       "exportedPath": "200-reference-notes/der-herr-der-ringe-bd-3-die-rückkehr-des-königs.html",
       "dependencies": []
     },
     "200 Reference Notes/Despicable Me 4.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1642,
       "exportedPath": "200-reference-notes/despicable-me-4.html",
       "dependencies": []
     },
     "200 Reference Notes/Kleo.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1451,
       "exportedPath": "200-reference-notes/kleo.html",
       "dependencies": []
     },
     "200 Reference Notes/Les spécialistes.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1623,
       "exportedPath": "200-reference-notes/les-spécialistes.html",
       "dependencies": []
     },
     "200 Reference Notes/Loudermilk.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1482,
       "exportedPath": "200-reference-notes/loudermilk.html",
       "dependencies": []
     },
     "200 Reference Notes/Lupin.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1538,
       "exportedPath": "200-reference-notes/lupin.html",
       "dependencies": []
     },
     "200 Reference Notes/Minuscule 2 Mandibles from Far Away.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1722,
       "exportedPath": "200-reference-notes/minuscule-2-mandibles-from-far-away.html",
       "dependencies": []
     },
     "200 Reference Notes/Minuscule Valley of the Lost Ants.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1729,
       "exportedPath": "200-reference-notes/minuscule-valley-of-the-lost-ants.html",
       "dependencies": []
     },
     "200 Reference Notes/Rick and Morty.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1367,
       "exportedPath": "200-reference-notes/rick-and-morty.html",
       "dependencies": []
     },
     "200 Reference Notes/Shadow and Bone.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1416,
       "exportedPath": "200-reference-notes/shadow-and-bone.html",
       "dependencies": []
     },
     "200 Reference Notes/Spy Kids.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1444,
       "exportedPath": "200-reference-notes/spy-kids.html",
       "dependencies": []
     },
     "200 Reference Notes/Stranger Things.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1434,
       "exportedPath": "200-reference-notes/stranger-things.html",
       "dependencies": []
     },
     "200 Reference Notes/Super papa.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1552,
       "exportedPath": "200-reference-notes/super-papa.html",
       "dependencies": []
     },
     "200 Reference Notes/The Count of Monte-Cristo.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1522,
       "exportedPath": "200-reference-notes/the-count-of-monte-cristo.html",
       "dependencies": []
     },
     "200 Reference Notes/The Gentleman Bastard Books One and Two.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 691,
       "exportedPath": "200-reference-notes/the-gentleman-bastard-books-one-and-two.html",
       "dependencies": []
     },
     "200 Reference Notes/The Smurfs.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1357,
       "exportedPath": "200-reference-notes/the-smurfs.html",
       "dependencies": []
     },
     "200 Reference Notes/The Transporter.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1368,
       "exportedPath": "200-reference-notes/the-transporter.html",
       "dependencies": []
     },
     "200 Reference Notes/The Vampire Diaries.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1478,
       "exportedPath": "200-reference-notes/the-vampire-diaries.html",
       "dependencies": []
     },
     "200 Reference Notes/Wreck-It Ralph.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1486,
       "exportedPath": "200-reference-notes/wreck-it-ralph.html",
       "dependencies": []
     },
     "300 Tag Notes/Agronomy.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 361,
       "exportedPath": "300-tag-notes/agronomy.html",
       "dependencies": []
     },
     "300 Tag Notes/Cinematography.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 712,
       "exportedPath": "300-tag-notes/cinematography.html",
       "dependencies": []
     },
     "300 Tag Notes/Diskurs im antiquen Griechenland.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 349,
       "exportedPath": "300-tag-notes/diskurs-im-antiquen-griechenland.html",
       "dependencies": []
     },
     "300 Tag Notes/Essay.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 312,
       "exportedPath": "300-tag-notes/essay.html",
       "dependencies": []
     },
     "300 Tag Notes/Gastronomy.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 306,
       "exportedPath": "300-tag-notes/gastronomy.html",
       "dependencies": []
     },
     "300 Tag Notes/Geography.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 503,
       "exportedPath": "300-tag-notes/geography.html",
       "dependencies": []
     },
     "300 Tag Notes/History.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 300,
       "exportedPath": "300-tag-notes/history.html",
       "dependencies": []
     },
     "300 Tag Notes/IT.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 303,
       "exportedPath": "300-tag-notes/it.html",
       "dependencies": []
     },
     "300 Tag Notes/Literature.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 319,
       "exportedPath": "300-tag-notes/literature.html",
       "dependencies": []
     },
     "300 Tag Notes/Musicology.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 275,
       "exportedPath": "300-tag-notes/musicology.html",
       "dependencies": []
     },
     "300 Tag Notes/Physics.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 461,
       "exportedPath": "300-tag-notes/physics.html",
       "dependencies": []
     },
     "300 Tag Notes/Sociology.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 445,
       "exportedPath": "300-tag-notes/sociology.html",
       "dependencies": []
     },
     "Files/Home in the night.jpg": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 502610,
       "exportedPath": "files/home-in-the-night.jpg",
       "dependencies": []
     },
     "Files/Library.png": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 130578,
       "exportedPath": "files/library.png",
       "dependencies": []
     },
     "Files/Pourquoi le ciel est bleu.png": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 546082,
       "exportedPath": "files/pourquoi-le-ciel-est-bleu.png",
       "dependencies": []
     },
     "Files/Stammtischparolen sind.png": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 940806,
       "exportedPath": "files/stammtischparolen-sind.png",
       "dependencies": []
     },
     "Files/The different sounds of Instruments.gif": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 549657,
       "exportedPath": "files/the-different-sounds-of-instruments.gif",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1749334551758,
-      "sourceSize": 5686,
+      "modifiedTime": 1749401874854,
+      "sourceSize": 5753,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/pourquoi-le-ciel-est-bleu.png": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 546082,
       "exportedPath": "lib/media/pourquoi-le-ciel-est-bleu.png",
       "dependencies": []
     },
     "lib/media/stammtischparolen-sind.png": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 940806,
       "exportedPath": "lib/media/stammtischparolen-sind.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1749334551758,
-      "sourceSize": 41611,
+      "modifiedTime": 1749401874854,
+      "sourceSize": 44081,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1749334551758,
-      "sourceSize": 9466,
+      "modifiedTime": 1749401874854,
+      "sourceSize": 9928,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 138359,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 17701,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 228140,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 354,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 276,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "000 Zettelkasten/Coffea canephora.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 731,
       "exportedPath": "000-zettelkasten/coffea-canephora.html",
       "dependencies": []
     },
     "000 Zettelkasten/Coffea arabica.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 691,
       "exportedPath": "000-zettelkasten/coffea-arabica.html",
       "dependencies": []
     },
     "000 Zettelkasten/Coffea.md": {
-      "modifiedTime": 1749334551758,
-      "sourceSize": 1557,
+      "modifiedTime": 1749401874854,
+      "sourceSize": 1685,
       "exportedPath": "000-zettelkasten/coffea.html",
       "dependencies": []
     },
     "000 Zettelkasten/Die Historische Verbreitung von Kaffee.md": {
-      "modifiedTime": 1749334551758,
-      "sourceSize": 2732,
+      "modifiedTime": 1749401874854,
+      "sourceSize": 2781,
       "exportedPath": "000-zettelkasten/die-historische-verbreitung-von-kaffee.html",
       "dependencies": []
     },
     "300 Tag Notes/Botany.md": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 740,
       "exportedPath": "300-tag-notes/botany.html",
       "dependencies": []
     },
     "Files/DKV_Kaffeeanbau_und_Kaffeekonsum.png": {
-      "modifiedTime": 1749334551758,
+      "modifiedTime": 1749401874854,
       "sourceSize": 561748,
       "exportedPath": "files/dkv_kaffeeanbau_und_kaffeekonsum.png",
+      "dependencies": []
+    },
+    "000 Zettelkasten/Cascara.md": {
+      "modifiedTime": 1749401874854,
+      "sourceSize": 1054,
+      "exportedPath": "000-zettelkasten/cascara.html",
+      "dependencies": []
+    },
+    "000 Zettelkasten/Kaffee.md": {
+      "modifiedTime": 1749401874854,
+      "sourceSize": 491,
+      "exportedPath": "000-zettelkasten/kaffee.html",
+      "dependencies": []
+    },
+    "000 Zettelkasten/Kaffeekirsche.md": {
+      "modifiedTime": 1749401874854,
+      "sourceSize": 1419,
+      "exportedPath": "000-zettelkasten/kaffeekirsche.html",
+      "dependencies": [
+        "lib/media/kaffeekirsche-querschnitt.png"
+      ]
+    },
+    "000 Zettelkasten/Sufismus.md": {
+      "modifiedTime": 1749401874854,
+      "sourceSize": 450,
+      "exportedPath": "000-zettelkasten/sufismus.html",
+      "dependencies": []
+    },
+    "100 Half-Baked Notes/Vortrag zu Stammtischparolen.md": {
+      "modifiedTime": 1749401874854,
+      "sourceSize": 0,
+      "exportedPath": "100-half-baked-notes/vortrag-zu-stammtischparolen.html",
+      "dependencies": []
+    },
+    "300 Tag Notes/Getränke Kunde.md": {
+      "modifiedTime": 1749401874854,
+      "sourceSize": 655,
+      "exportedPath": "300-tag-notes/getränke-kunde.html",
+      "dependencies": []
+    },
+    "Files/Informationen zu Kaffee - Kaffeeverband.pdf": {
+      "modifiedTime": 1749401874854,
+      "sourceSize": 13427231,
+      "exportedPath": "files/informationen-zu-kaffee-kaffeeverband.pdf",
+      "dependencies": []
+    },
+    "Files/Kaffeekirsche - Querschnitt.png": {
+      "modifiedTime": 1749401874854,
+      "sourceSize": 216553,
+      "exportedPath": "files/kaffeekirsche-querschnitt.png",
+      "dependencies": []
+    },
+    "lib/media/kaffeekirsche-querschnitt.png": {
+      "modifiedTime": 1749401874854,
+      "sourceSize": 216553,
+      "exportedPath": "lib/media/kaffeekirsche-querschnitt.png",
       "dependencies": []
     }
   }
